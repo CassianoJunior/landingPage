@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Righteous&family=Sarala:wght@400;700&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+}
+
+body {
+  background: rgb(46,40,152);
+  background: linear-gradient(90deg, rgba(46,40,152,1) 9%, rgba(61,98,221,1) 42%, rgba(76,179,200,1) 100%);
+}
+
